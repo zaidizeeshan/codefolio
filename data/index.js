@@ -97,6 +97,12 @@ export const Resume = {
             Ishq FM {
                 url: <a target='_blank' href='https://www.ishq.com'>'www.ishq.com'</a>
             },
+            India Content {
+                url: <a target='_blank' href='https://www.indiacontent.in'>'www.indiacontent.in'</a>
+            },
+            Cosmopolitan {
+                url: <a target='_blank' href='https://www.cosmopolitan.in'>'www.cosmopolitan.in'</a>
+            },
             Text to Speech: {
                 url: <a target='_blank' href='https://www-zeeshan-ml.s3.ap-south-1.amazonaws.com/index.html'>'https://www-zeeshan-ml.s3.ap-south-1.amazonaws.com/index.html'</a>
             }
