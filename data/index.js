@@ -7,7 +7,8 @@ export const Resume = {
         Introduction = () => { 
             Hi: { 
                 Name: 'Zeeshan Zaidi', 
-                Designation: 'DevOps Engineer' 
+                Designation: 'DevOps Engineer'
+                Location: India 
             } 
         } 
 }`,
