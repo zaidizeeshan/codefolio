@@ -113,21 +113,21 @@ export const Resume = {
 **Deploy:**
 
 ```
-<pre>login to netlify.com</pre>
-<pre>click on "New site from Git"</pre>
-<pre>authorize to github account</pre>
-<pre>select the repo and branch</pre>
-<pre>publish directory should be "build/"</pre>
+     login to netlify.com
+     click on "New site from Git"
+     authorize to github account
+     select the repo and branch<
+     publish directory should be "build/"
 ```
 **Update:**
 
 ```
-<pre>update your info in files and save</pre>
-<pre>yarn build<</pre>
-<pre>git add .</pre>
-<pre>git commit -m "commit info"</pre>
-<pre>git push</pre>
-<pre>enter git credential</pre>
+     update your info in files and save
+     yarn build
+     git add .
+     git commit -m "commit info"
+     git push
+     enter git credential
 ```
 
 Ref: 'https://github.com/amitmishrg/code-resume',
