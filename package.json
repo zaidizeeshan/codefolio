@@ -7,7 +7,7 @@
         "start": "npm run build && node start.js",
         "server": "nodemon --inspect start.js",
         "start-dev": "webpack-dev-server --config ./webpack.config.dev",
-        "build": "webpack --config ./webpack.config.prod"
+        "builds": "webpack --config ./webpack.config.prod"
     },
     "author": "",
     "license": "ISC",
