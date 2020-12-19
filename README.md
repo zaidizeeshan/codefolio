@@ -110,6 +110,29 @@ export const Resume = {
     github: 'https://github.com/zaidizeeshan'
 ```
 
+**Deploy:**
+
+```
+<pre>login to netlify.com</pre>
+<pre>click on "New site from Git"</pre>
+<pre>authorize to github account</pre>
+<pre>select the repo and branch</pre>
+<pre>publish directory should be "build/"</pre>
+```
+**Update:**
+
+```
+<pre>update your info in files and save</pre>
+<pre>yarn build<</pre>
+<pre>git add .</pre>
+<pre>git commit -m "commit info"</pre>
+<pre>git push</pre>
+<pre>enter git credential</pre>
+```
+
+Ref: 'https://github.com/amitmishrg/code-resume',
+Note: Netlify does not support ci/cd for webpack applications till the date',
+
 
 ## License
 
